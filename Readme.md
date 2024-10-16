@@ -11,7 +11,7 @@ Welcome to the Draco & Forest project! This project is developed using Unity 202
 ## Getting Started
 1. Clone the repository:
   ```sh
-  git clone <repository-url>
+  git clone <[repository-url](https://github.com/pranx2/Draco----Forest.git)>
   ```
 2. Open the project in Unity 2022 LTS.
 3. Open the `Scenes` folder and load the main scene to start working on the project.
